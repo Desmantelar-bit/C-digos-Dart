@@ -2,8 +2,8 @@ import 'package:agriapp/models/modelo.dart';
 import 'package:agriapp/services/modelo_service.dart';
 import 'package:flutter/material.dart';
 
-class MarcaScreen extends StatelessWidget {
-  const MarcaScreen({super.key});
+class ModeloScreen extends StatelessWidget {
+  const ModeloScreen({super.key});
 
   @override
   Widget build(BuildContext context) {
